@@ -1,0 +1,2 @@
+# STM32_bracelet_Primary
+使用标准库开发，f103c8t6主控的基础stm32手环
